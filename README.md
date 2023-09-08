@@ -17,5 +17,5 @@ Note
 HW
 -------------
 
-Projects
+Project
 -------------
