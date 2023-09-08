@@ -1,4 +1,3 @@
-# db
 112-1 DataBase System
 =============
 
