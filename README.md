@@ -1,22 +1,22 @@
 # db
-112-1 DataBase System 資料庫系統
+112-1 DataBase System
 =============
 
 
->Teacher： 蔡芸琤 Tsai, Yun-Cheng 老師
+>Teacher： Dr. Yun-Cheng Tsai 
 
->Name：林立涵 Ariel
+>Name：Hsin-Ya Tsai
 
->Department & Grade： NTNU THARD 碩二
+>Department & Grade： NTNU THARD Third year of graduate school
 
-筆記區
+Note
 -------------
-### week 1
+### Ｗeek 1
 [PPT](https://docs.google.com/presentation/d/1CP0D92DA8Ae8oyIKSquqUuTUpVqwLGT-14T32l9pf5U/edit#slide=id.g2410febba22_0_9)
-[影片](https://www.youtube.com/watch?v=idhUbF1req4)
+[video](https://www.youtube.com/watch?v=idhUbF1req4)
 
-作業區
+HW
 -------------
 
-專題區
+Projects
 -------------
