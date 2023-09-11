@@ -18,6 +18,8 @@ HW
 -------------
 ### Ｗeek 1
 [HW0](https://youtu.be/QtKSeeiwIiA)
+[HW1](https://youtu.be/gAz-3NpOgYU)
+![ERD](https://drive.google.com/file/d/1tRkPk7aQsbl4x6InIQj8dJ7DRk-xSf39/view?usp=sharing)
 
 Project
 -------------
