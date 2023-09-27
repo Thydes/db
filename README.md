@@ -17,7 +17,7 @@ Note
 [PPT](https://docs.google.com/presentation/d/1amn8pDX2Wx4N6ZjzhCGoQFJH4DqaRcQ2DJAdg3hbIrA/edit#slide=id.g23dd2219a46_0_124)
 [Video](https://youtu.be/qGaGgdm_YtY?si=BuJ-TQ-b7FKe3HkU)
 ### Ｗeek 3
-["Enterprise Visit Record"](https://www.facebook.com/pecu.tsai/posts/10222321136844048)
+[Enterprise Visit Record](https://www.facebook.com/pecu.tsai/posts/10222321136844048)
 ### Ｗeek 4
 [PPT](https://docs.google.com/presentation/d/1053jwkOvLAdeQCDUJKq-c0NwxB3jOqlkiL244y0DPro/edit#slide=id.g23dd2219a46_0_124)
 [Video](https://youtu.be/YjItfF4FkIo?si=Hsan9VU2aziBt_GR)
