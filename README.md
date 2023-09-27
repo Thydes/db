@@ -29,6 +29,7 @@ HW
 ### Ｗeek 2
 [HW1](https://youtu.be/gAz-3NpOgYU)
 ![Error](ERD.png "ERD Diagrams")
-
+### Ｗeek 4
+[HW2](https://youtu.be/uFGQFHxbDzg)
 Project
 -------------
