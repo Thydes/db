@@ -21,6 +21,9 @@ Note
 ### Ｗeek 4
 [PPT](https://docs.google.com/presentation/d/1053jwkOvLAdeQCDUJKq-c0NwxB3jOqlkiL244y0DPro/edit#slide=id.g23dd2219a46_0_124)
 [Video](https://youtu.be/YjItfF4FkIo?si=Hsan9VU2aziBt_GR)
+### Ｗeek 5
+[PPT](https://docs.google.com/presentation/d/1J0ASP97LgjTQeKqTdm1vRhxh6MGya-C1D-8w7ykUPqE/edit#slide=id.g24f83c41742_0_0)
+[Video](https://youtu.be/SkouS0krH98?si=OBXXqnpHeQNnR3lb)
 
 HW
 -------------
@@ -31,6 +34,8 @@ HW
 ![Error](ERD.png "ERD Diagrams")
 ### Ｗeek 4
 [HW2](https://youtu.be/uFGQFHxbDzg)
+### Ｗeek 5
+[HW3](https://youtu.be/EkUsSxCOEBw)
 
 Project
 -------------
