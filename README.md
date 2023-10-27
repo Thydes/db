@@ -27,6 +27,9 @@ Note
 ### Ｗeek 7
 [PPT](https://docs.google.com/presentation/d/1VGS4z-40x0ZS8baC3PHP4TBLZn3S3YEe9owg4_vIZWc/edit#slide=id.g23dd2219a46_0_124)
 [Video](https://youtu.be/ukF48qw2LM8?si=IvolrLRtkAws2189)
+### Ｗeek 8
+[PPT](https://docs.google.com/presentation/d/1semHnB07DAbbwkl-4-LmuZL8DQDZ5t6zAA1Jbft-uuQ/edit#slide=id.g23dd2219a46_0_124)
+[Video](https://www.youtube.com/watch?v=xs1WvCHsegw)
 
 HW
 -------------
