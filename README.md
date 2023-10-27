@@ -6,7 +6,7 @@
 
 >Name：Hsin-Ya Tsai
 
->Department & Grade： NTNU THARD Third year of graduate school
+>Department & Grade： NTNU THARD Second year of graduate school
 
 Note
 -------------
@@ -24,6 +24,9 @@ Note
 ### Ｗeek 5
 [PPT](https://docs.google.com/presentation/d/1J0ASP97LgjTQeKqTdm1vRhxh6MGya-C1D-8w7ykUPqE/edit#slide=id.g24f83c41742_0_0)
 [Video](https://youtu.be/SkouS0krH98?si=OBXXqnpHeQNnR3lb)
+### Ｗeek 7
+[PPT](https://docs.google.com/presentation/d/1VGS4z-40x0ZS8baC3PHP4TBLZn3S3YEe9owg4_vIZWc/edit#slide=id.g23dd2219a46_0_124)
+[Video](https://youtu.be/ukF48qw2LM8?si=IvolrLRtkAws2189)
 
 HW
 -------------
@@ -36,6 +39,8 @@ HW
 [HW2](https://youtu.be/uFGQFHxbDzg)
 ### Ｗeek 5
 [HW3](https://youtu.be/EkUsSxCOEBw)
+### Ｗeek 9
+[HW4]()
 
 Project
 -------------
