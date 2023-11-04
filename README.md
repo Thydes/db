@@ -30,6 +30,10 @@ Note
 ### Ｗeek 8
 [PPT](https://docs.google.com/presentation/d/1semHnB07DAbbwkl-4-LmuZL8DQDZ5t6zAA1Jbft-uuQ/edit#slide=id.g23dd2219a46_0_124)
 [Video](https://www.youtube.com/watch?v=xs1WvCHsegw)
+### Ｗeek 9
+[PPT](https://docs.google.com/presentation/d/1g1mkza7Uufm9A4fwRI_fJRAcWf-QTFf9Jn00I8iiLM0/edit#slide=id.g23dd2219a46_0_124)
+[Video1](https://moodle3.ntnu.edu.tw/mod/url/view.php?id=697936)
+[Video2](https://moodle3.ntnu.edu.tw/mod/url/view.php?id=697938)
 
 HW
 -------------
@@ -44,6 +48,8 @@ HW
 [HW3](https://youtu.be/EkUsSxCOEBw)
 ### Ｗeek 9
 [HW4](https://youtu.be/2S0F5o64kbY)
+### Ｗeek 10
+[HW4]()
 
 Project
 -------------
