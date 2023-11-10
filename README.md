@@ -34,6 +34,9 @@ Note
 [PPT](https://docs.google.com/presentation/d/1g1mkza7Uufm9A4fwRI_fJRAcWf-QTFf9Jn00I8iiLM0/edit#slide=id.g23dd2219a46_0_124)
 [Video1](https://moodle3.ntnu.edu.tw/mod/url/view.php?id=697936)
 [Video2](https://moodle3.ntnu.edu.tw/mod/url/view.php?id=697938)
+### Ｗeek 10
+[PPT](https://docs.google.com/presentation/d/18gjdy7pYScp5Z4H_IEvk5ET6Kb3d7rX_j3hsmNzCn-g/edit#slide=id.g23dd2219a46_0_124)
+[Video](https://youtu.be/PWn_wkJridE?si=y2S2wo2OqIyhyIFr)
 
 HW
 -------------
@@ -49,7 +52,10 @@ HW
 ### Ｗeek 9
 [HW4](https://youtu.be/2S0F5o64kbY)
 ### Ｗeek 10
-[HW5]()
+[HW5-HW2](https://youtu.be/ZaYcqZdTgL8)
+[HW5-HW3]()
 
 Project
 -------------
+### Ｗeek 10
+[Proposal1](https://youtu.be/_RRkLeTYz5k)
