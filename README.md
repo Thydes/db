@@ -64,4 +64,4 @@ Project
 ### Week 12
 [Proposal2](https://youtu.be/OoQoR6ThYSA)
 ### Week 14
-[Proposal3]()
+[Proposal3](https://youtu.be/1QiRO7chaYs)
