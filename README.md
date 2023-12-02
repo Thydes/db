@@ -37,6 +37,8 @@ Note
 ### Ｗeek 10
 [PPT](https://docs.google.com/presentation/d/18gjdy7pYScp5Z4H_IEvk5ET6Kb3d7rX_j3hsmNzCn-g/edit#slide=id.g23dd2219a46_0_124)
 [Video](https://youtu.be/PWn_wkJridE?si=y2S2wo2OqIyhyIFr)
+### Week 12
+[PPT](https://docs.google.com/presentation/d/1d-96NiLhL4LP8j23fGZFzRwL9t3WTT3yfKx-DfV3jq8/edit#slide=id.p)
 
 HW
 -------------
@@ -59,3 +61,7 @@ Project
 -------------
 ### Ｗeek 10
 [Proposal1](https://youtu.be/_RRkLeTYz5k)
+### Week 12
+[Proposal2](https://youtu.be/OoQoR6ThYSA)
+### Week 14
+[Proposal3]()
